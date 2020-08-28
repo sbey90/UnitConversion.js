@@ -1,0 +1,44 @@
+body {
+    background-color: lightgray;
+    padding: 7%;
+    padding-right: 15%;
+    margin: 5px;
+}
+h1 {
+    font-family: sans-serif;
+}
+
+ul {
+    width: 20%;
+    float: left;
+    font-family: sans-serif;
+    font-weight: 600;
+    padding: 25px;
+    padding-right: 40px;
+    border-style: groove; 
+}
+
+li {
+    color: black;
+     
+}
+
+
+li:hover {
+    color: red;
+
+}
+
+
+p {
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+
+.Fahrenheit {
+    position: relative;
+    float: right;
+    width: 50%;
+
+}
